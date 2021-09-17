@@ -9,8 +9,7 @@ This project is the creation of the back-end for e-commerce site. This applicati
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
-* [LINK TO GITHUB](#links-to-github)
-* [LINK TO VIDEOS](#links-to-video)
+* [Links](#links)
 
 ## Installation
 The user should clone the repository from Github. This application requires Node.js, Express.js, and Sequelize. To connect to the database run 'mysql -u -root -p' and enter password from '.env' file. Then source the schema.sql. To seed the file run 'npm run seed'. Finally to connect to the server run 'npm start'.
@@ -26,6 +25,8 @@ There are no tests for this application
 
 ## Questions
 If you have any questions about this project, please contact me directly at yonihailsh@gmail.com
+
+## Links
 
 ## LINK TO GITHUB
 https://github.com/yonatanhaddish/internet-retail-company
